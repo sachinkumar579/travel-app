@@ -1,0 +1,44 @@
+.categories {
+  margin-top: 550px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.categories > * {
+  margin: 0px;
+}
+
+.categories h4 {
+  font-weight: bolder;
+  font-size: 20px;
+  color: rgb(112, 109, 109);
+}
+
+.categories h2 {
+  font-weight: bold;
+  font-size: 55px;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.categories .groups {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.categories .groups > * {
+  margin: 0px 25px 0 50px;
+}
+
+.curved-border {
+  border-radius: 15px;
+  border: 1px solid rgb(223, 219, 219);
+  box-shadow: 3px 6px 21px #888888;
+}
