@@ -1,0 +1,62 @@
+.booking-trip {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.booking-trip section {
+  width: 40%;
+}
+
+.booking-trip .heading {
+  font-size: 40px;
+  font-weight: bolder;
+  line-height: 40px;
+}
+
+.booking-steps {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.trip-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.trip-details > * {
+  margin: 10px;
+}
+
+.trip-details .cover-image {
+  border-radius: 15px;
+}
+
+.trip-details .title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+aside {
+  border: 1px solid rgb(243, 235, 235);
+  box-shadow: 3px 6px 21px #888888;
+  border-radius: 15px;
+  margin-top: 50px;
+}
+
+.trip-details .icons {
+  margin-top: 10px;
+}
+.trip-details .icons > * {
+  margin-right: 15px;
+}
+
+.people-count {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

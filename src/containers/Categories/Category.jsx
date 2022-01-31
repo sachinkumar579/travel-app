@@ -1,4 +1,4 @@
-import images from "../../assets/images.png";
+import gear from "../../assets/gear.png";
 
 import "./Category.css";
 
@@ -7,7 +7,7 @@ function Category({ border }) {
 
   return (
     <div className={borderClass}>
-      <img src={images}></img>
+      <img src={gear}></img>
       <h4>Calculated Weather</h4>
       <div className="category-text">
         Some text here some text here here some text here some text here here

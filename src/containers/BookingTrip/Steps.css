@@ -1,0 +1,10 @@
+.steps {
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+}
+
+.steps .title {
+  font-weight: bolder;
+  font-size: 16px;
+}

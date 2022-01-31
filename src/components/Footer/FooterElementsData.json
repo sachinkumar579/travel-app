@@ -1,0 +1,7 @@
+{
+    "data": [
+        { "heading": "Company", "values": ["About", "Careers", "Mobile"] },
+        { "heading": "Contact", "values": ["Help/FAQ", "Press", "Affiliates"]},
+        { "heading": "More", "values": ["Airline Fees", "Airline", "Low fare tips"]}
+      ]
+}
