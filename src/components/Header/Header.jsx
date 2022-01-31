@@ -4,7 +4,7 @@ import logo from "../../assets/logo.png";
 function Header() {
   return (
     <header className="header">
-      <img src={logo} />
+      <img src={logo} style={{ width: "150px", height: "100px" }} />
       <div>
         <nav className="navigation">
           <a href="#">Destination</a>
